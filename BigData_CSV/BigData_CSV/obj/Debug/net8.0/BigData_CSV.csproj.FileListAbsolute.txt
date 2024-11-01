@@ -1,0 +1,17 @@
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\bin\Debug\net8.0\BigData_CSV.exe
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\bin\Debug\net8.0\BigData_CSV.deps.json
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\bin\Debug\net8.0\BigData_CSV.runtimeconfig.json
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\bin\Debug\net8.0\BigData_CSV.dll
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\bin\Debug\net8.0\BigData_CSV.pdb
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\obj\Debug\net8.0\BigData_CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\obj\Debug\net8.0\BigData_CSV.AssemblyInfoInputs.cache
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\obj\Debug\net8.0\BigData_CSV.AssemblyInfo.cs
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\obj\Debug\net8.0\BigData_CSV.csproj.CoreCompileInputs.cache
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\obj\Debug\net8.0\BigData_CSV.dll
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\obj\Debug\net8.0\refint\BigData_CSV.dll
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\obj\Debug\net8.0\BigData_CSV.pdb
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\obj\Debug\net8.0\BigData_CSV.genruntimeconfig.cache
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\obj\Debug\net8.0\ref\BigData_CSV.dll
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\obj\Debug\net8.0\BigData_CSV.csproj.AssemblyReference.cache
+C:\Users\A-SPAC08\Arbejde\BigData_CSV\BigData_CSV\obj\Debug\net8.0\BigData_.DFC1C5C7.Up2Date

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DeTbyHJrry8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A-SPAC08\\Arbejde\\BigData_CSV\\BigData_CSV\\BigData_CSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A-SPAC08\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
